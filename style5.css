@@ -1,0 +1,25 @@
+.entete_tableau
+  { 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px; 
+	font-weight: bold; 
+	color: #000066;
+	background-color: #E3E9F1; 
+	border: 2px outset #CCD8E6; 
+	text-align: center;  
+	height:40px; } 
+.corps_tableau  {  font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;  
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	text-align: left; 
+	vertical-align: middle;
+	height: 30px; } 
+.TITRE1 
+ {
+	font-size: 46px; 
+	font-style: italic;
+	color: #000099; 
+  } 
